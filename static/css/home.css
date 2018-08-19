@@ -4,4 +4,23 @@ html {
     -moz-background-size: cover;    /* Mozilla*/
     -o-background-size: cover;      /* Opera*/
     background-size: cover;         /* Generic*/
+    z-index: -1;
+}
+
+.center-elem {
+    font-family: 'Press Start 2P', cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+h1 {
+    margin: 0;
+    font-size: 7.5rem;
+    white-space: nowrap;
+}
+
+.btn {
+    font-size: 1.5rem;
 }
