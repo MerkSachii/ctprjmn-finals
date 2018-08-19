@@ -15,7 +15,7 @@ app = Flask(__name__)
 def index():
     return render_template('home.html')
 @app.route('/main')
-def index():
+def main_web():
     return render_template('main.html')
 
 if __name__ == '__main__':
