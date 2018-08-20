@@ -43,7 +43,7 @@
                         {"question":"In this step, I have to prepare for the exams, take the exams, and see if I pass."},
                         {"question":"The next critical step in my plan is to look for a career in IT."},
                         {"question":"I like to use the term career because I am hoping it is something where I can use my leadership skills that I honed over the years."},
-                        {"question":"The next critical step is to acheive stability."},
+                        {"question":"The next critical step is to achieve stability."},
                         {"question":"Financially, socially, -lly, -lly, and whatnot."},
                         {"question":"This is probably the biggest risk right now. I don't know if I'm going to love the career which I think I like!"},
                         {"question":"When I'm okay financially, then I'll try to study the best approach to buy a house/lot and all those things."},
