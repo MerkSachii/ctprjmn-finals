@@ -31,7 +31,7 @@
                         {"question":"For other people, let life throw things at them and they would make something out of it."},
                         {"question":"We know things are going right in life because we know it is."},
                         {"question":"But it is actually so many factors that we think of to know that our life is on the right path."},
-                        {"question":"It's just like a project, there are criterias and factors that we have to consider."},
+                        {"question":"It's just like a project, there are criteria and factors that we have to consider."},
                         {"question":"I hope that satisfies your curiosity"},
                         {"question":"Second on the list: Narrate your life plan for the next 20 years using project management principles and concepts you have learned so far."},
                         {"question":"My whole life is based on an iterative model..."},
