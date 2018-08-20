@@ -22,7 +22,7 @@ def main2_web():
     return render_template('main2.html')
 @app.route('/charter')
 def charter():
-    return render_template('render.html')
+    return render_template('charter.html')
 @app.route('/transcript')
 def template():    
     return render_template('transcript.html')
