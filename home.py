@@ -17,7 +17,18 @@ def index():
 @app.route('/main')
 def main_web():
     return render_template('main.html')
-
+@app.route('/main2')
+def main2_web():
+    return render_template('main2.html')
+@app.route('/charter')
+def charter():
+    return render_template('render.html')
+@app.route('/transcript')
+def template():    
+    return render_template('transcript.html')
+@app.route('/profile')
+def profile():
+    return render_template('profile.html')
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
