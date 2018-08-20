@@ -1,5 +1,5 @@
 html {
-    background: url("../img/3.gif") no-repeat center center fixed black;
+    background: url("../img/4.gif") no-repeat center center fixed black;
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover;    /* Mozilla*/
     -o-background-size: cover;      /* Opera*/
@@ -67,6 +67,7 @@ html {
 .btn {
     font-size: 1.2rem;
     font-family: 'Press Start 2P', cursive;
+    margin-top: 5px;
 }
 
 #content {
@@ -91,4 +92,8 @@ h1 {
 
 #transcript {
     margin-top: 20px;
+}
+
+.div-vid {
+    display: flex;
 }

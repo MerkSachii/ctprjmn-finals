@@ -3,7 +3,7 @@
     {
         "question-1": {
             "question": [
-                {"question":" "},
+                {"question":"What is the essence of life and its relation to project management?"},
                 {"question":" "},
                 {"question":" "},
                 {"question":" "},
@@ -16,13 +16,13 @@
             ],
             
             "answer": [
-                {"answer":" "},
-                {"answer":" "},
-                {"answer":" "},
-                {"answer":" "},
-                {"answer":" "},
-                {"answer":" "},
-                {"answer":" "},
+                {"answer":"Life is like an art,"},
+                {"answer":"it is subjective,"},
+                {"answer":"we judge it,"},
+                {"answer":"we fall in love with it"},
+                {"answer":"but most importantly we paint it."},
+                {"answer":"It is us who gives meaning to it."},
+                {"answer":"It is us  who takes care of it."},
                 {"answer":" "},
                 {"answer":" "}
 
