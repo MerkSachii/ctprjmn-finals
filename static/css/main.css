@@ -17,7 +17,7 @@ html {
 
 
 .textbox-parent {
-    position: fixed;
+    position: absolute;
     bottom: 20px;
     width: 99%;
     height: 200px;
