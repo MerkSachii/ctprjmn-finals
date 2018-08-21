@@ -77,7 +77,7 @@ html {
 .center-elem {
     font-family: 'Press Start 2P', cursive;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
